@@ -1,0 +1,9 @@
+Antibiotic Resistance Genotyping in Bacteria
+Identify 5 countries, each as a representative of a distinct region of the world- Germany,USA,Singapore
+Bacteria chosen- pseudomonas aeruginosa
+Retrieve whole genome sequence data (at least 5) for each region from the SRA archive- 
+USA- SRX19365565, SRX19365566, SRX19365561, SRX19365559, SRX19365556
+Singapore- SRX2066423, SRX2066416, SRX2066415, SRX2066409, SRX2066408
+Austria- SRX7573602, SRX7573604, SRX7573613, SRX7573615, SRX7573616
+England- SRX9243151, SRX9243150, SRX9243149, SRX9243148, SRX9243147
+China- SRX10864688, SRX10864687, SRX10864683, SRX10864682, SRX10864677
